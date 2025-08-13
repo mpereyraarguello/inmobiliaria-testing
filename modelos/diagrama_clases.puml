@@ -1,3 +1,42 @@
 @startuml Diagrama de Clases - Inmobiliaria
 
+class Usuario{
+    
+
+}
+
+class Rol{
+
+}
+
+class Permiso{
+
+}
+
+class Propietario{
+
+}
+
+class Inquilino{
+    
+}
+
+class Propiedad{
+
+}
+
+class TipoPropiedad{
+
+}
+class contrato {
+    
+}
+
+
+'si está alquilada / vendida / disponible / en mantenimiento
+class Estado{
+
+}
+
+
 @enduml
