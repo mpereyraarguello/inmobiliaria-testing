@@ -1,4 +1,4 @@
 **Primeros pasos**:
 
-*Crear el proyecto y modulos de usuario y ABM para propiedades.
+*Crear el proyecto y modulos de usuario y ABM para propiedades.<br>
 *Realizar las pruebas unitarias y de integracion al backend.
